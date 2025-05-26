@@ -26,7 +26,7 @@ _Not available_
 ### Prerequisites
 
 - Android Studio Hedgehog or newer
-- Minimum SDK 21 (or whatever you used)
+- Minimum SDK 21 
 
 ### Installation
 
